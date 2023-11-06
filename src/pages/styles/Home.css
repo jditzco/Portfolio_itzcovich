@@ -90,7 +90,7 @@ main{
 
 .gradient-text{
     /* background: rgb(255,255,255); */
-    background: linear-gradient(90deg, rgb(255, 187, 0) 0%, rgb(229, 255, 0) 100%);
+    background: linear-gradient(90deg, rgb(0, 255, 13) 0%, rgb(133, 1, 145) 100%);
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;
@@ -110,7 +110,7 @@ main{
 
 .gradient-text-3{
     background: rgb(255,255,255);
-    background: linear-gradient(90deg, rgb(221, 0, 255) 0%, rgb(255, 0, 81) 100%);
+    background: linear-gradient(90deg, rgb(221, 0, 255) 0%, rgb(67, 18, 242) 100%);
     -webkit-background-clip: text;
     background-clip: text;
     color: transparent;

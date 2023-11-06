@@ -16,14 +16,14 @@ const Home = () => {
                 <div className='first-section'>
                     <header style={{position: 'relative'}}>
                         <CodeBlock tag='h1'>
-                            <h1>Hola, soy <span className='gradient-text'>Axel</span>!</h1>
+                            <h1>Hola, soy <span className='gradient-text'>Jero</span>!</h1>
                         </CodeBlock>
                     </header>
                     <CodeBlock tag='p'>
                         <span className='strong'>
-                            <TypeWriter text='Tengo 18 años, soy estudiante de ORT Argentina.' />
+                            <TypeWriter text='Tengo 18 años, soy estudiante de ORT ☆*: .｡. o(≧▽≦)o .｡.:*☆.' />
                         </span>
-                        <p className='strong'>/* <span className='code-comment'>Full Stack Developer</span> */</p>
+                        <p className='strong'>/* <span className='code-comment'>Principalmente Front Developer</span> */</p>
                         <CodeBlock tag='a'>
                             <p>
                                 <span className='code-block' style={{display: 'inline'}}>
