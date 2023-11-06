@@ -14,10 +14,10 @@ export const proyectos = [
         tecnologias: ['React', 'Vite']
     },
     {
-        name: 'ORT Resuelve',
-        image: '/ort-resuelve.webp',
+        name: 'Flaggle',
+        image: '/Flaggle.png',
         url: 'https://axelcy.github.io/reportes-ort/',
-        description: 'Aplicación web para resolver reportes de la escuela',
-        tecnologias: ['React', 'Vite', 'TailwindCSS', 'Node', 'Express', 'MsSQL']
+        description: 'Juego De adivinar Banderas',
+        tecnologias: ['React', 'Vite']
     }
 ]
