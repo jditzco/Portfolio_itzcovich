@@ -1,6 +1,6 @@
 export const proyectos = [
     {
-        name: 'Chinchu-Ranks',
+        name: 'Fisica Para Todos',
         image: '/chinchu-ranks.webp',
         url: 'https://valo-ranks.netlify.app/',
         description: 'Aplicación web para ver estadísticas de jugadores de Valorant',

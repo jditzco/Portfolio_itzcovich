@@ -21,7 +21,7 @@ const Home = () => {
                     </header>
                     <CodeBlock tag='p'>
                         <span className='strong'>
-                            <TypeWriter text='Tengo 18 años, soy estudiante de ORT ☆*: .｡. o(≧▽≦)o .｡.:*☆.' />
+                            <TypeWriter text='Tengo 18 años, soy estudiante de ORT  ☆*: .｡. o(≧▽≦)o .｡.:*☆.' />
                         </span>
                         <p className='strong'>/* <span className='code-comment'>Principalmente Front Developer</span> */</p>
                         <CodeBlock tag='a'>
@@ -29,8 +29,8 @@ const Home = () => {
                                 <span className='code-block' style={{display: 'inline'}}>
                                     {'onClick={ '}
                                     <a className='strong github-link' 
-                                        href='https://github.com/axelcy/portfolio' target='_blank'>
-                                        github.com/axelcy/portfolio
+                                        href='https://github.com/jditzco/Portfolio_itzcovich' target='_blank'>
+                                        github.com/jditzco/Portfolio_itzcovich
                                     </a>
                                     {' }'}
                                 </span>
@@ -39,21 +39,17 @@ const Home = () => {
                     </CodeBlock>
                     <CodeBlock tag='footer' removePadding>
                         <div className='social-media'>
-                            <SocialMedia name='linkedin' url='https://www.linkedin.com/in/axelcy'
-                                tooltip='Hacé click para ir a mi perfil de Linkedin!' 
-                                />
                             <SocialMedia name='github' tooltip='Hacé click para ir a mi perfil de GitHub!'
-                                url='https://github.com/axelcy' style={{filter: 'invert(1)'}} 
+                                url='https://github.com/jditzco' style={{filter: 'invert(1)'}} 
                                 />
-                            <SocialMedia name='discord' copyText='applecy'
+                            <SocialMedia name='discord' copyText='lowtiergod2685'
                                 tooltip={
                                 <div className='discord-tooltip'>
                                     <span className='tooltip-text'>Hacé click para copiar mi usuario de Discord!</span>
                                     <Discord />
                                 </div>}
                                 />
-                            <SocialMedia name='gmail' tooltip='axelcy@gmail.com' copyText='axelcy@gmail.com' />
-                            {/* <SocialMedia name='minecraft' tooltip='No tengo premium xd' /> */}
+                            <SocialMedia name='gmail' tooltip='jerobrine0007@gmail.com' copyText='jerobrine0007@gmail.com' />
                         </div>
                     </CodeBlock>
                 </div>
