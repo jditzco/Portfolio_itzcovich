@@ -1,10 +1,10 @@
 export const proyectos = [
     {
         name: 'Fisica Para Todos',
-        image: '/chinchu-ranks.webp',
+        image: '/FisicaParaTodos.jpg',
         url: 'https://valo-ranks.netlify.app/',
-        description: 'Aplicación web para ver estadísticas de jugadores de Valorant',
-        tecnologias: ['React', 'Vite', 'TailwindCSS']
+        description: 'Aplicación web para competir en el ambito de la fisica',
+        tecnologias: ['React', 'Vite', 'bootstrap', 'Node', 'MsSQL', 'Express']
     },
     {
         name: 'Eco Password',
