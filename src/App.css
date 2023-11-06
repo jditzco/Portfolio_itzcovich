@@ -1,0 +1,43 @@
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.padding-left {
+    padding-left: 15rem;
+}
+.padding-right {
+    padding-right: 15rem;
+}
+
+.code-padding {
+    padding-left: 3rem;
+}
+.code-padding-2 {
+    padding-left: 6rem;
+}
+.code-padding-right {
+    padding-right: 3rem;
+}
+
+h1{
+    margin: 0;
+    font-size: 5rem;
+}
+h2{
+    margin: 0;
+    font-size: 3rem;
+}
+h3{
+    margin: 0;
+    font-size: 1.5rem;
+}
+
+@media (width < 768px){
+    .padding-left {
+        padding-left: 7rem;
+    }
+    .padding-right {
+        padding-right: 7rem;
+    }
+}

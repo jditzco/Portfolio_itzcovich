@@ -1,0 +1,24 @@
+.lista-proyectos{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3rem;
+    padding-left: 10rem;
+}
+
+.gradient-text-2{
+    background: rgb(255,255,255);
+    background: linear-gradient(90deg, rgb(0, 255, 170) 0%, rgb(0, 81, 255) 100%);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
+.proyectos{
+    padding-left: 15rem;
+}
+
+/* .lista-proyectos article{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+} */
