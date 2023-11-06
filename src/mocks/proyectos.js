@@ -2,7 +2,7 @@ export const proyectos = [
     {
         name: 'Fisica Para Todos',
         image: '/FisicaParaTodos.jpg',
-        url: 'https://valo-ranks.netlify.app/',
+        url: 'https://github.com/jditzco/Fisica-Para-Todos',
         description: 'Aplicación web para competir en el ambito de la fisica',
         tecnologias: ['React', 'Vite', 'bootstrap', 'Node', 'MsSQL', 'Express']
     },
